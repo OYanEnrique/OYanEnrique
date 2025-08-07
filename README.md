@@ -38,4 +38,4 @@
 
 ###
 
-![snake animation](https://github.com/<OYanEnrique>/<OYanEnrique>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/OYanEnrique/OYanEnrique/output/snake.svg" alt="Snake animation" />
