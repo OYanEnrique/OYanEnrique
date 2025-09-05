@@ -1,8 +1,8 @@
-<h1 align="left">Oh! A wild Python Student appeared!</h1>
+<h1 align="left">Oh! A wild Data Analyst appeared!</h1>
 
 ###
 
-<p align="left">Not a Pokémon 😅, my name is Yan Enrique and I'm a Python Student from Brazil...</p>
+<p align="left">Not a Pokémon 😅, my name is Yan Enrique and I'm a Data Analyst from Brazil...</p>
 
 ###
 
@@ -10,7 +10,47 @@
 
 ###
 
-<p align="left">Data Analyst and Developer with a UX/UI design background, passionate about process optimization. Studying Python and DevOps, I leverage my Tourism and Economics studies for a unique perspective on complex systems and user behavior. <br><br>Passioned about learning new things. 😆</p>
+# Yan Enrique | Data Analyst & Storyteller
+
+> "I don't just create charts. I build bridges between questions and answers."
+
+### ✨ My Mission: From Pixels to Insights
+
+For 7 years, my world was pixels. With over **370 completed projects** and a **4.8-star rating**, I learned that every single detail matters in creating a cohesive picture. Today, I apply that same obsession with detail to the world of data.
+
+I've swapped my briefings for the syntax of **SQL**, **Python**, and **R**, but my goal remains the same: **to create something clear, functional, and memorable.** I use my color palettes to transform raw data into visual narratives using **Tableau** and **Looker**, always guided by the principles of **UX/UI** and **Design Thinking** to ensure the message is not just seen, but truly understood.
+
+---
+
+### 🎨 My Tool Palette
+
+* **Analysis & Programming**: `Python` `R` `SQL` `Git`
+* **Visualization & Design**: `Tableau` `Looker Studio` `Figma`
+* **Methodologies**: `Scrum` `Kanban` `Data Storytelling` `Design Thinking`
+
+---
+
+### 📊 My Project Portfolio
+
+This is where the magic happens. Explore my projects to see how I build bridges between questions and answers.
+
+➡️ **[Access My Full Portfolio Here](https://github.com/OYanEnrique)** ⬅️
+
+#### Featured Projects:
+* 🎬 **[Netflix Exploratory Data Analysis](https://github.com/OYanEnrique/netflix-data-analysis)**: Exploratory data analysis of the Netflix catalog (2008-2021) using Python (Pandas, Seaborn) and an interactive dashboard in Looker Studio.
+* 📈 **[Korean Bakery Sales](https://github.com/OYanEnrique/korean_bakery_sales)**: This project showcases a full-year sales analysis of a bakery, based on 10,840 cleaned and structured transactions. The main goal was to turn raw data into clear visual insights, using UX/UI design principles to improve user experience and readability.
+* 🎬 **[Ice Cream Revenue Prediction](https://github.com/OYanEnrique/ice-cream-revenue-prediction)**: A data analysis project that uses Linear Regression (Machine Learning) to predict ice cream revenue based on temperature. Includes a Jupyter/Google Colab Notebook, dataset, and a Looker Studio dashboard.
+
+---
+
+### 📫 Let's Connect
+
+Ready to transform your data into a functional work of art?
+
+* **LinkedIn**: [Yan Enrique Linkedin](https://www.linkedin.com/in/yanenrique)
+* **Email**: enrique4work@gmail.com
+
+**Let's create something memorable together.**
 
 ###
 
