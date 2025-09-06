@@ -42,9 +42,9 @@ This is where the magic happens. Explore my projects to see how I build bridges 
 * 🎬 **[Ice Cream Revenue Prediction](https://github.com/OYanEnrique/ice-cream-revenue-prediction)**: A data analysis project that uses Linear Regression (Machine Learning) to predict ice cream revenue based on temperature. Includes a Jupyter/Google Colab Notebook, dataset, and a Looker Studio dashboard.
 
 #### Other Projects:
-* 🎮 **[Candy Mayhem](https://github.com/OYanEnrique/layer-cake)**:A turn-based text RPG where candy-themed creatures battle in a layer cake dungeon. Befriend them, fight rivais and explore the delicious universe.
-* 📄 **[UX Briefing](https://github.com/OYanEnrique/ux-briefing-generator)**:A simple command-line tool built with Python that helps you quickly create a structured project briefing by asking a series of key questions and saving the output to a text file.
-* 📄 **[To-Do List](https://github.com/OYanEnrique/to-do-list)**:A command-line To-Do List application in Python that saves tasks to a text file.
+* 🎮 **[Candy Mayhem](https://github.com/OYanEnrique/layer-cake)**: A turn-based text RPG where candy-themed creatures battle in a layer cake dungeon. Befriend them, fight rivais and explore the delicious universe.
+* 📄 **[UX Briefing](https://github.com/OYanEnrique/ux-briefing-generator)**: A simple command-line tool built with Python that helps you quickly create a structured project briefing by asking a series of key questions and saving the output to a text file.
+* 📝 **[To-Do List](https://github.com/OYanEnrique/to-do-list)**: A command-line To-Do List application in Python that saves tasks to a text file.
 ---
 
 ### 📫 Let's Connect
