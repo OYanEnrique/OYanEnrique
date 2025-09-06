@@ -43,7 +43,7 @@ This is where the magic happens. Explore my projects to see how I build bridges 
 
 #### Other Projects:
 * 🎮 **[Candy Mayhem](https://github.com/OYanEnrique/layer-cake)**: A turn-based text RPG where candy-themed creatures battle in a layer cake dungeon. Befriend them, fight rivais and explore the delicious universe.
-* 📄 **[UX Briefing](https://github.com/OYanEnrique/ux-briefing-generator)**: A simple command-line tool built with Python using AI that helps you quickly create a structured project briefing by asking a series of key questions and saving the output to a text file.
+* 📄 **[UX Briefing](https://github.com/OYanEnrique/ux-briefing-generator)**: A simple command-line tool built with Python that integrates AI to helps you quickly create a structured project briefing by asking a series of key questions and saving the output to a text file.
 * 📝 **[To-Do List](https://github.com/OYanEnrique/to-do-list)**: A command-line To-Do List application in Python that saves tasks to a text file.
 ---
 
