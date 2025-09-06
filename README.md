@@ -4,15 +4,15 @@
 
 <p align="left">Not a Pokémon 😅, my name is Yan Enrique and I'm a Data Analyst from Brazil...</p>
 
+# Yan Enrique | Data Analyst & Storyteller
+
+> "I don't just create charts. I build bridges between questions and answers."
+
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-# Yan Enrique | Data Analyst & Storyteller
-
-> "I don't just create charts. I build bridges between questions and answers."
 
 ### ✨ My Mission: From Pixels to Insights
 
