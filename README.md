@@ -37,6 +37,7 @@ This is where the magic happens. Explore my projects to see how I build bridges 
 ➡️ **[Access My Full Portfolio Here](https://github.com/OYanEnrique)** ⬅️
 
 #### Featured Data Projects:
+* 📈 **[Google Stock Analysis](https://github.com/OYanEnrique/googl-stock-analysis)**: End-to-end data analysis project on Google's (GOOG) stock history (2005-2023), using Python (Pandas) for ETL and feature engineering, and Looker Studio to create an interactive dashboard.
 * 🎬 **[Netflix Exploratory Data Analysis](https://github.com/OYanEnrique/netflix-data-analysis)**: Exploratory data analysis of the Netflix catalog (2008-2021) using Python (Pandas, Seaborn) and an interactive dashboard in Looker Studio.
 * 📈 **[Korean Bakery Sales](https://github.com/OYanEnrique/korean_bakery_sales)**: This project showcases a full-year sales analysis of a bakery, based on 10,840 cleaned and structured transactions. The main goal was to turn raw data into clear visual insights, using UX/UI design principles to improve user experience and readability.
 * 🎬 **[Ice Cream Revenue Prediction](https://github.com/OYanEnrique/ice-cream-revenue-prediction)**: A data analysis project that uses Linear Regression (Machine Learning) to predict ice cream revenue based on temperature. Includes a Jupyter/Google Colab Notebook, dataset, and a Looker Studio dashboard.
