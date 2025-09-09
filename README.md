@@ -54,6 +54,7 @@ Ready to transform your data into a functional work of art?
 
 * **LinkedIn**: [Yan Enrique Linkedin](https://www.linkedin.com/in/yanenrique)
 * **Email**: enrique4work@gmail.com
+* **Landing Page**: [Yan Enrique Landing Page](https://yanenrique.carrd.co)
 
 **Let's create something memorable together.**
 
