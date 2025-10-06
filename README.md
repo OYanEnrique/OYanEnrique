@@ -34,7 +34,7 @@ I've swapped my briefings for the syntax of **SQL**, **Python**, and **R**, but 
 
 This is where the magic happens. Explore my projects to see how I build bridges between questions and answers.
 
-➡️ **[Access My Full Portfolio Here](https://github.com/OYanEnrique)** ⬅️
+➡️ **[Access My Landing Page Here](https://yanenrique.carrd.co)** ⬅️
 
 #### Featured Data Projects:
 * 📈 **[Google Stock Analysis](https://github.com/OYanEnrique/google-stock-analysis)**: End-to-end data analysis project on Google's (GOOG) stock history (2005-2023), using Python (Pandas) for ETL and feature engineering, and Looker Studio to create an interactive dashboard.
