@@ -92,7 +92,7 @@ Ready to transform your data into a functional work of art?
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Looker_Studio_logo.svg" height="40" alt="looker studio logo" />
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker studio logo" />
 
   
 
