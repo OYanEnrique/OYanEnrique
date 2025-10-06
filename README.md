@@ -88,9 +88,14 @@ Ready to transform your data into a functional work of art?
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Looker_Studio_logo.svg/1200px-Looker_Studio_logo.svg.png" height="40" alt="looker logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Looker_Studio_logo.svg" height="40" alt="looker studio logo" />
+
+  
+
 
 </div>
 
