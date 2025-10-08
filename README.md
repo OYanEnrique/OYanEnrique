@@ -95,6 +95,12 @@ Ready to transform your data into a functional work of art?
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker studio logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" height="40" alt="Google Sheets logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" height="40" alt="R logo" />
+
+
 
   
 
