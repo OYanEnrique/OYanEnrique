@@ -93,6 +93,8 @@ Ready to transform your data into a functional work of art?
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker studio logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo" />
 
   
 
