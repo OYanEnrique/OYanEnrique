@@ -24,7 +24,7 @@ I've swapped my briefings for the syntax of **SQL**, **Python**, and **R**, but 
 
 ### 🎨 My Tool Palette
 
-* **Analysis & Programming**: `Python` `R` `SQL` `Git`
+* **Analysis & Programming**: `Python` `R` `SQL` `Git` `Dart` `JavaScript` `HTML5` `CSS3`
 * **Visualization & Design**: `Tableau` `Looker Studio` `Figma`
 * **Methodologies**: `Scrum` `Kanban` `Data Storytelling` `Design Thinking`
 
@@ -41,8 +41,10 @@ This is where the magic happens. Explore my projects to see how I build bridges 
 * 🎬 **[Netflix Exploratory Data Analysis](https://github.com/OYanEnrique/netflix-data-analysis)**: Exploratory data analysis of the Netflix catalog (2008-2021) using Python (Pandas, Seaborn) and an interactive dashboard in Looker Studio.
 * 📈 **[Korean Bakery Sales](https://github.com/OYanEnrique/korean_bakery_sales)**: This project showcases a full-year sales analysis of a bakery, based on 10,840 cleaned and structured transactions. The main goal was to turn raw data into clear visual insights, using UX/UI design principles to improve user experience and readability.
 * 🎬 **[Ice Cream Revenue Prediction](https://github.com/OYanEnrique/ice-cream-revenue-prediction)**: A data analysis project that uses Linear Regression (Machine Learning) to predict ice cream revenue based on temperature. Includes a Jupyter/Google Colab Notebook, dataset, and a Looker Studio dashboard.
+* 📈 **[Google Capstone Cyclistic Conversion](https://github.com/OYanEnrique/google-capstone-cyclistic-conversion)**:  Real-world case study using R to identify behavioral patterns among 600k+ bike-share trips, segment casual users vs. annual members, and generate actionable insights to maximize marketing ROI and increase recurring revenue through data-driven conversions.
 
 #### Other Projects:
+* 🌐 **[EconStudy](https://github.com/OYanEnrique/econstudy-ufrrj)**: Interactive web platform for studying Economics subjects. Transforms lecture notes into a searchable knowledge base with 30+ structured concepts.
 * 🎮 **[Candy Mayhem](https://github.com/OYanEnrique/layer-cake)**: A turn-based text RPG where candy-themed creatures battle in a layer cake dungeon. Befriend them, fight rivais and explore the delicious universe.
 * 📄 **[UX Briefing](https://github.com/OYanEnrique/ux-briefing-generator)**: A simple command-line tool built with Python that integrates AI to helps you quickly create a structured project briefing by asking a series of key questions and saving the output to a text file.
 * 📝 **[To-Do List](https://github.com/OYanEnrique/to-do-list)**: A command-line To-Do List application in Python that saves tasks to a text file.
