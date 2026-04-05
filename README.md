@@ -16,7 +16,7 @@
 
 ### ✨ My Mission: From Pixels to Predictions
 
-For 7 years, my world was defined by pixels. As a freelance Pixel Artist with over **600 completed projects**, I learned a fundamental truth: a single misplaced pixel can ruin an entire composition. Today, I apply that exact same obsessive attention to detail to my daily routine as a Data Scientist.
+For 7 years, my world was defined by pixels. As a freelance Pixel Artist with over **600 completed projects** and a **4.8-star rating** from over 380 reviews, I learned a fundamental truth: a single misplaced pixel can ruin an entire composition. Today, I apply that exact same obsessive attention to detail to my daily routine as a Data Scientist.
 
 Instead of placing colors on a canvas, my main brush is **Python**. My day-to-day involves getting my hands dirty with raw, unstructured data—cleaning and transforming it using **Pandas** and **NumPy** to ensure every 'pixel' of information is perfectly aligned. I craft visual narratives through Exploratory Data Analysis (EDA) using **Matplotlib** and **Seaborn**, and I engineer predictive models with **Scikit-learn**, **XGBoost**, and **PyTorch**. 
 
@@ -93,13 +93,13 @@ Ready to transform your raw data into refined intelligence?
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="pyspark logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" height="40" alt="scipy logo" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2025/06/scipy.svg" height="40" alt="scipy logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" height="40" alt="hugging face logo" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="hugging face logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
@@ -110,7 +110,7 @@ Ready to transform your raw data into refined intelligence?
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker studio logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/303211/microsoft-excel-logo.svg" height="40" alt="excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019–2025%29.svg" height="40" alt="excel logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
