@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Not a Pokémon 😅, my name is Yan Enrique and I'm a Data Analyst from Brazil...</p>
+<p align="left">Not a Pokémon 😅, my name is Yan Enrique and I'm a Data Scientist from Brazil...</p>
 
-# Yan Enrique | Data Analyst & Storyteller
+# Yan Enrique | Data Scientist & Storyteller
 
 > "I don't just create charts. I build bridges between questions and answers."
 
@@ -16,7 +16,7 @@
 
 ### ✨ My Mission: From Pixels to Insights
 
-For 7 years, my world was pixels. With over **370 completed projects** and a **4.8-star rating**, I learned that every single detail matters in creating a cohesive picture. Today, I apply that same obsession with detail to the world of data.
+For 7 years, my world was pixels. With over **600 completed projects** and a **4.8-star rating**, I learned that every single detail matters in creating a cohesive picture. Today, I apply that same obsession with detail to the world of data.
 
 I've swapped my briefings for the syntax of **SQL**, **Python**, and **R**, but my goal remains the same: **to create something clear, functional, and memorable.** I use my color palettes to transform raw data into visual narratives using **Tableau** and **Looker**, always guided by the principles of **UX/UI** and **Design Thinking** to ensure the message is not just seen, but truly understood.
 
@@ -34,7 +34,7 @@ I've swapped my briefings for the syntax of **SQL**, **Python**, and **R**, but 
 
 This is where the magic happens. Explore my projects to see how I build bridges between questions and answers.
 
-➡️ **[Access My Landing Page Here](https://yanenrique.carrd.co)** ⬅️
+➡️ **[Access My Portifolio Page here](https://oyanenrique.github.io/yanenrique-portifolio/)** ⬅️
 
 #### Featured Data Projects:
 * 📈 **[Google Stock Analysis](https://github.com/OYanEnrique/google-stock-analysis)**: End-to-end data analysis project on Google's (GOOG) stock history (2005-2023), using Python (Pandas) for ETL and feature engineering, and Looker Studio to create an interactive dashboard.
@@ -56,7 +56,7 @@ Ready to transform your data into a functional work of art?
 
 * **LinkedIn**: [Yan Enrique Linkedin](https://www.linkedin.com/in/yanenrique)
 * **Email**: enrique4work@gmail.com
-* **Landing Page**: [Yan Enrique Landing Page](https://yanenrique.carrd.co)
+* **Portifolio**: [Yan Enrique Portifolio](https://oyanenrique.github.io/yanenrique-portifolio/)
 
 **Let's create something memorable together.**
 
