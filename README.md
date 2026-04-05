@@ -1,12 +1,12 @@
-<h1 align="left">Oh! A wild Data Analyst appeared!</h1>
+<h1 align="left">Oh! A wild Data Scientist appeared!</h1>
 
 ###
 
 <p align="left">Not a Pokémon 😅, my name is Yan Enrique and I'm a Data Scientist from Brazil...</p>
 
-# Yan Enrique | Data Scientist & Storyteller
+# Yan Enrique | Data Scientist & Machine Learning Engineer
 
-> "I don't just create charts. I build bridges between questions and answers."
+> "Data is the new oil, but intelligence is the new refinery."
 
 ###
 
@@ -14,19 +14,23 @@
 
 ###
 
-### ✨ My Mission: From Pixels to Insights
+### ✨ My Mission: From Pixels to Predictions
 
-For 7 years, my world was pixels. With over **600 completed projects** and a **4.8-star rating**, I learned that every single detail matters in creating a cohesive picture. Today, I apply that same obsession with detail to the world of data.
+For 7 years, my world was defined by pixels. As a freelance Pixel Artist with over **600 completed projects**, I learned a fundamental truth: a single misplaced pixel can ruin an entire composition. Today, I apply that exact same obsessive attention to detail to my daily routine as a Data Scientist.
 
-I've swapped my briefings for the syntax of **SQL**, **Python**, and **R**, but my goal remains the same: **to create something clear, functional, and memorable.** I use my color palettes to transform raw data into visual narratives using **Tableau** and **Looker**, always guided by the principles of **UX/UI** and **Design Thinking** to ensure the message is not just seen, but truly understood.
+Instead of placing colors on a canvas, my main brush is **Python**. My day-to-day involves getting my hands dirty with raw, unstructured data—cleaning and transforming it using **Pandas** and **NumPy** to ensure every 'pixel' of information is perfectly aligned. I craft visual narratives through Exploratory Data Analysis (EDA) using **Matplotlib** and **Seaborn**, and I engineer predictive models with **Scikit-learn**, **XGBoost**, and **PyTorch**. 
+
+Whether I'm meticulously tuning hyperparameters, handling an outlier, processing natural language with **NLTK/spaCy**, or designing an intuitive dashboard, the bridge between my past and present remains the same: I build functional, precise, and visually compelling solutions.
 
 ---
 
-### 🎨 My Tool Palette
+### 🧠 My Tool Palette
 
-* **Analysis & Programming**: `Python` `R` `SQL` `Git` `Dart` `JavaScript` `HTML5` `CSS3`
-* **Visualization & Design**: `Tableau` `Looker Studio` `Figma`
-* **Methodologies**: `Scrum` `Kanban` `Data Storytelling` `Design Thinking`
+* **Programming Languages**: `Python` `R` `SQL` `JavaScript` `Dart` `HTML5` `CSS3`
+* **Data Manipulation & Analysis**: `Pandas` `NumPy` `PySpark` `SciPy`
+* **Machine Learning & AI**: `Scikit-learn` `XGBoost` `PyTorch` `Hugging Face` `NLTK` `spaCy` `Scikit-image`
+* **Data Visualization & BI**: `Matplotlib` `Seaborn` `Tableau` `Looker Studio` `Streamlit` `Excel`
+* **Design & Workflow**: `Git` `Figma` `UX/UI Design` `Scrum` `Kanban` `Data Storytelling`
 
 ---
 
@@ -36,29 +40,30 @@ This is where the magic happens. Explore my projects to see how I build bridges 
 
 ➡️ **[Access My Portifolio Page here](https://oyanenrique.github.io/yanenrique-portifolio/)** ⬅️
 
-#### Featured Data Projects:
+#### Featured Machine Learning & Data Projects:
+* 🎬 **[Ice Cream Revenue Prediction](https://github.com/OYanEnrique/ice-cream-revenue-prediction)**: A data analysis project that uses Linear Regression (Machine Learning) to predict ice cream revenue based on temperature. Includes a Jupyter/Google Colab Notebook, dataset, and a Looker Studio dashboard.
+* 📈 **[Google Capstone Cyclistic Conversion](https://github.com/OYanEnrique/google-capstone-cyclistic-conversion)**: Real-world case study using R to identify behavioral patterns among 600k+ bike-share trips, segment casual users vs. annual members, and generate actionable insights to maximize marketing ROI.
 * 📈 **[Google Stock Analysis](https://github.com/OYanEnrique/google-stock-analysis)**: End-to-end data analysis project on Google's (GOOG) stock history (2005-2023), using Python (Pandas) for ETL and feature engineering, and Looker Studio to create an interactive dashboard.
 * 🎬 **[Netflix Exploratory Data Analysis](https://github.com/OYanEnrique/netflix-data-analysis)**: Exploratory data analysis of the Netflix catalog (2008-2021) using Python (Pandas, Seaborn) and an interactive dashboard in Looker Studio.
-* 📈 **[Korean Bakery Sales](https://github.com/OYanEnrique/korean_bakery_sales)**: This project showcases a full-year sales analysis of a bakery, based on 10,840 cleaned and structured transactions. The main goal was to turn raw data into clear visual insights, using UX/UI design principles to improve user experience and readability.
-* 🎬 **[Ice Cream Revenue Prediction](https://github.com/OYanEnrique/ice-cream-revenue-prediction)**: A data analysis project that uses Linear Regression (Machine Learning) to predict ice cream revenue based on temperature. Includes a Jupyter/Google Colab Notebook, dataset, and a Looker Studio dashboard.
-* 📈 **[Google Capstone Cyclistic Conversion](https://github.com/OYanEnrique/google-capstone-cyclistic-conversion)**:  Real-world case study using R to identify behavioral patterns among 600k+ bike-share trips, segment casual users vs. annual members, and generate actionable insights to maximize marketing ROI and increase recurring revenue through data-driven conversions.
+* 📈 **[Korean Bakery Sales](https://github.com/OYanEnrique/korean_bakery_sales)**: This project showcases a full-year sales analysis of a bakery, based on 10,840 cleaned and structured transactions. The main goal was to turn raw data into clear visual insights, using UX/UI design principles to improve readability.
 
-#### Other Projects:
+#### Other Creative & Tech Projects:
 * 🌐 **[EconStudy](https://github.com/OYanEnrique/econstudy-ufrrj)**: Interactive web platform for studying Economics subjects. Transforms lecture notes into a searchable knowledge base with 30+ structured concepts.
-* 🎮 **[Candy Mayhem](https://github.com/OYanEnrique/layer-cake)**: A turn-based text RPG where candy-themed creatures battle in a layer cake dungeon. Befriend them, fight rivais and explore the delicious universe.
-* 📄 **[UX Briefing](https://github.com/OYanEnrique/ux-briefing-generator)**: A simple command-line tool built with Python that integrates AI to helps you quickly create a structured project briefing by asking a series of key questions and saving the output to a text file.
+* 🎮 **[Candy Mayhem](https://github.com/OYanEnrique/layer-cake)**: A turn-based text RPG where candy-themed creatures battle in a layer cake dungeon. Befriend them, fight rivals and explore the delicious universe.
+* 📄 **[UX Briefing](https://github.com/OYanEnrique/ux-briefing-generator)**: A simple command-line tool built with Python that integrates AI to helps you quickly create a structured project briefing by asking a series of key questions.
 * 📝 **[To-Do List](https://github.com/OYanEnrique/to-do-list)**: A command-line To-Do List application in Python that saves tasks to a text file.
+
 ---
 
 ### 📫 Let's Connect
 
-Ready to transform your data into a functional work of art?
+Ready to transform your raw data into refined intelligence?
 
 * **LinkedIn**: [Yan Enrique Linkedin](https://www.linkedin.com/in/yanenrique)
 * **Email**: enrique4work@gmail.com
 * **Portifolio**: [Yan Enrique Portifolio](https://oyanenrique.github.io/yanenrique-portifolio/)
 
-**Let's create something memorable together.**
+**Let's build something memorable together.**
 
 ###
 
@@ -69,44 +74,50 @@ Ready to transform your data into a functional work of art?
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" height="40" alt="R logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="pyspark logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" height="40" alt="scipy logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" height="40" alt="hugging face logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker studio logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo" />
+  <img src="https://www.svgrepo.com/show/303211/microsoft-excel-logo.svg" height="40" alt="excel logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" height="40" alt="Google Sheets logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" height="40" alt="R logo" />
-
-
-
-  
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
