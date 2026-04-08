@@ -27,7 +27,7 @@ Whether I'm meticulously tuning hyperparameters, handling an outlier, processing
 ### 🧠 My Tool Palette
 
 * **Programming Languages**: `Python` `R` `SQL` `JavaScript` `Dart` `HTML5` `CSS3`
-* **Data Manipulation & Analysis**: `Pandas` `NumPy` `PySpark` `SciPy`
+* **Data Manipulation & Analysis**: `Pandas` `NumPy` `PySpark` `SciPy` `Pingouin` `Statsmodel`
 * **Machine Learning & AI**: `Scikit-learn` `XGBoost` `PyTorch` `Hugging Face` `NLTK` `spaCy` `Scikit-image`
 * **Data Visualization & BI**: `Matplotlib` `Seaborn` `Tableau` `Looker Studio` `Streamlit` `Excel`
 * **Design & Workflow**: `Git` `Figma` `UX/UI Design` `Scrum` `Kanban` `Data Storytelling`
@@ -120,6 +120,10 @@ Ready to transform your raw data into refined intelligence?
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc-768x708.png" height="40" alt="antigravity logo"  />
+  <img width="12" />
+  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" height="40" alt="statsmodel logo"  />
+  <img width="12" />
+  <img src="https://pingouin-stats.org/_images/pingouin.png" height="40" alt="Pingouin logo"  />
   <img width="12" />
 </div>
 
