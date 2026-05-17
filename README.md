@@ -18,9 +18,9 @@
 
 For 7 years, my world was defined by pixels. As a freelance Pixel Artist with over **600 completed projects** and a **4.8-star rating** from over 380 reviews, I learned a fundamental truth: a single misplaced pixel can ruin an entire composition. Today, I apply that exact same obsessive attention to detail to my daily routine as a Data Scientist.
 
-Instead of placing colors on a canvas, my main brush is **Python**. My day-to-day involves getting my hands dirty with raw, unstructured data—cleaning and transforming it using **Pandas** and **NumPy** to ensure every 'pixel' of information is perfectly aligned. I craft visual narratives through Exploratory Data Analysis (EDA) using **Matplotlib** and **Seaborn**, and I engineer predictive models with **Scikit-learn**, **XGBoost**, and **PyTorch**. 
+Instead of placing colors on a canvas, my main brush is **Python**. My day-to-day involves getting my hands dirty with raw, unstructured data—cleaning and transforming it using **Pandas** and **NumPy** to ensure every 'pixel' of information is perfectly aligned. I craft visual narratives through Exploratory Data Analysis (EDA) using **Matplotlib** and **Seaborn**, and I engineer predictive models with **Scikit-learn**, **XGBoost**, and **Tensorflow**. 
 
-Whether I'm meticulously tuning hyperparameters, handling an outlier, processing natural language with **NLTK/spaCy**, or designing an intuitive dashboard, the bridge between my past and present remains the same: I build functional, precise, and visually compelling solutions.
+Whether I'm meticulously tuning hyperparameters, fine tuning a model, handling an outlier, processing natural language with **NLTK/spaCy**, or designing an intuitive dashboard, the bridge between my past and present remains the same: I build functional, precise, and visually compelling solutions.
 
 ---
 
@@ -41,10 +41,11 @@ This is where the magic happens. Explore my projects to see how I build bridges 
 ➡️ **[Access My Portifolio Page here](https://oyanenrique.github.io/yanenrique-portifolio/)** ⬅️
 
 #### Featured Machine Learning & Data Projects:
-* 🎬 **[Ice Cream Revenue Prediction](https://github.com/OYanEnrique/ice-cream-revenue-prediction)**: A data analysis project that uses Linear Regression (Machine Learning) to predict ice cream revenue based on temperature. Includes a Jupyter/Google Colab Notebook, dataset, and a Looker Studio dashboard.
-* 📈 **[Google Capstone Cyclistic Conversion](https://github.com/OYanEnrique/google-capstone-cyclistic-conversion)**: Real-world case study using R to identify behavioral patterns among 600k+ bike-share trips, segment casual users vs. annual members, and generate actionable insights to maximize marketing ROI.
-* 📈 **[Google Stock Analysis](https://github.com/OYanEnrique/google-stock-analysis)**: End-to-end data analysis project on Google's (GOOG) stock history (2005-2023), using Python (Pandas) for ETL and feature engineering, and Looker Studio to create an interactive dashboard.
-* 🎬 **[Netflix Exploratory Data Analysis](https://github.com/OYanEnrique/netflix-data-analysis)**: Exploratory data analysis of the Netflix catalog (2008-2021) using Python (Pandas, Seaborn) and an interactive dashboard in Looker Studio.
+* 📈 **[E-commerce Purchase Intent Prediction](https://github.com/OYanEnrique/ML-ecommerce)**: End-to-End Data Science Project: From E-commerce Browsing Behavior Analysis to the Deployment of a Conversion-Focused Predictive Model.
+* 📈 **[Retrieval-Augmented Generation for Digital Humanities](https://github.com/OYanEnrique/RAG-HD)**: A Python and Streamlit-based academic assistant designed to query and answer questions from a database of Digital Humanities articles and citations. Developed to organize my master's degree readings, the system leverages state-of-the-art LLMs for embeddings and text generation, ensuring accurate answers with proper source attribution.
+* 📈 **[Credit Card Clustering & Segmentation](https://github.com/OYanEnrique/credit-card-clustering)**: Credit card customer segmentation using Unsupervised Machine Learning (K-Means), optimized via Optuna and interpreted with Explainable AI (SHAP).
+* 📈 **[Credit Card Customer Segmentation API](https://huggingface.co/spaces/YanEnrique/credit-card-segmentation-api/tree/main)**: This API provides endpoints for real-time inference, classifying credit card customers into specific clusters (personas) based on their financial data. Additionally, it integrates with a Streamlit interface, allowing end-users to intuitively test the predictive model live on Hugging Face Spaces.
+* 📈 **[Bank Intent Classifier — Fine-tuning DistilBERT no Banking77](https://huggingface.co/spaces/YanEnrique/bank-distilbert/tree/main)**: An end-to-end NLP project that classifies customer banking queries into fine-grained intent categories. The pipeline compares a classic machine learning baseline against a fine-tuned DistilBERT transformer, with all experiments systematically tracked using MLflow. For production deployment, the system is fully containerized with Docker, featuring a modular FastAPI backend for model inference and an interactive Streamlit web interface deployed live on Hugging Face Spaces.
 * 📈 **[Korean Bakery Sales](https://github.com/OYanEnrique/korean_bakery_sales)**: This project showcases a full-year sales analysis of a bakery, based on 10,840 cleaned and structured transactions. The main goal was to turn raw data into clear visual insights, using UX/UI design principles to improve readability.
 
 #### Other Creative & Tech Projects:
